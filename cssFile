@@ -1,0 +1,48 @@
+body {background-color:#F7F7F7;} 
+
+.box1 {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.box1 div {
+  width: 400px;
+  height: 100px;
+  background-color:#FFFFFF;
+   align-items: center;
+  
+  
+}     
+.box2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.box2 div {
+  width: 400px;
+  height: 200px;
+  background-color:#F6F6F6;
+  
+ 
+}
+
+.image1 img {
+  max-width: 80px;
+  max-height: 80px;
+   top: 15%;
+  left: 50%;
+  transform: translate(-250%, -75%);position: absolute;
+}
+
+.image2 img {
+  max-width: 400px;
+  max-height: 190px;
+  top: 48%;
+  left: 50%;
+  transform: translate(-60%, -50%);position: absolute;
+ 
+ }
+
