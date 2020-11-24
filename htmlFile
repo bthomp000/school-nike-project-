@@ -1,0 +1,18 @@
+body>
+  <div class="box1">
+  <div>
+    <div class="image1"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/nike-512.png" alt="placeholder"></div>
+    
+  </div>
+  <p>NIKE</p>
+</div>
+  
+  <div class="box2">
+  <div>
+    <div class="image2"><img src="https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/csdbpwsgablm58zc2cgf/epic-react-flyknit-2-womens-running-shoe-5r9NpJ.jpg" alt="placeholder"></div>
+  </div>
+</div>
+      
+       
+</body>
+
